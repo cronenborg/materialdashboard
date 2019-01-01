@@ -1,8 +1,8 @@
 {
-  "name": "material-dashboard-react",
-  "homepage": "https://github.com/creativetimofficial/material-dashboard-react",
+  "name": "materialdashboard",
+  "homepage": "https://github.com/cronenborg/materialdashboard",
   "authors": [
-    "creative-tim"
+    "gianpa"
   ],
   "description": "A Badass Material-UI Kit based on Material Design",
   "main": "public/index.html",

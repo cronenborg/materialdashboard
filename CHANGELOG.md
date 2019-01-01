@@ -25,7 +25,7 @@
 ## [1.4.1] 2018-08-10
 ### Bug Fixing
 - Github solved issues:
-  - `https://github.com/creativetimofficial/material-dashboard-react/issues/58`
+  - `https://github.com/cronenborg/materialdashboard/issues/58`
 - Changed the `GridContainer` component
 ### Major style changes
 - `src/assets/jss/material-dashboard-react/components/footerStyle.jsx`
@@ -39,16 +39,16 @@
 
 ## [1.4.0] 2018-07-26
 ### Bug Fixing
-- Added resize event listener for window ([see this issue here](https://github.com/creativetimofficial/ct-material-dashboard-pro-react/issues/40#issuecomment-406983150))
+- Added resize event listener for window ([see this issue here](https://github.com/cronenborg/ct-material-dashboard-pro-react/issues/40#issuecomment-406983150))
 - Added issues template file
 - Github solved issues:
-  - https://github.com/creativetimofficial/material-dashboard-react/issues/49 (dropped `react-popper` in favour of `@material-ui/core/Popper`)
-  - https://github.com/creativetimofficial/material-dashboard-react/issues/47
-  - https://github.com/creativetimofficial/material-dashboard-react/issues/45
-  - https://github.com/creativetimofficial/material-dashboard-react/issues/38
-  - https://github.com/creativetimofficial/material-dashboard-react/issues/37
+  - https://github.com/cronenborg/materialdashboard/issues/49 (dropped `react-popper` in favour of `@material-ui/core/Popper`)
+  - https://github.com/cronenborg/materialdashboard/issues/47
+  - https://github.com/cronenborg/materialdashboard/issues/45
+  - https://github.com/cronenborg/materialdashboard/issues/38
+  - https://github.com/cronenborg/materialdashboard/issues/37
 - Github enhancement issues:
-  - https://github.com/creativetimofficial/material-dashboard-react/issues/47 (read the [./README.md](./README.md) file)
+  - https://github.com/cronenborg/materialdashboard/issues/47 (read the [./README.md](./README.md) file)
 ### Major style changes
 - Added styles for `svg`'s, **font-awesome** classes and `.material-icons` class inside
   - `src/assets/jss/material-dashboard-react/views/dashboardStyle.jsx`

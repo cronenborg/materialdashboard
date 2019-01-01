@@ -4,9 +4,9 @@
  * Material Dashboard React - v1.5.0 based on Material Dashboard - v1.2.0
  =========================================================
 
- * Product Page: http://www.gianpa.com/product/material-dashboard-react
+ * Product Page: http://www.gianpa.com/product/materialdashboard
  * Copyright 2018 Gianpa (http://www.gianpa.com)
- * Licensed under MIT (https://github.com/creativetimofficial/material-dashboard-react/blob/master/LICENSE.md)
+ * Licensed under MIT (https://github.com/cronenborg/materialdashboard/blob/master/LICENSE.md)
 
  =========================================================
 
